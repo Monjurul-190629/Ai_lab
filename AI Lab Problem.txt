@@ -1,0 +1,9 @@
+1.Write a program to implement Tower of Hanoi for n disk.
+2. Write a Program to Implement Breadth First Search algorithm.
+3.Write a Program to Implement Depth First Search algorithm.
+4.Write a Program to Implement Travelling Salesman Problem.
+5.(i) Create and load different datasets in python. 
+  (ii) Write a python program to compute Mean, Median, Mode, Variance and Standard Deviation using datasets.
+6.Write a python program to implement simple linear regression and plot the graph.
+7. Write a python program to implement Find S algorithm.
+8.Write a python Program to implement Support Vector Machine (SVM) Algorithm
